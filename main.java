@@ -10,6 +10,7 @@ public class main{
     
     add s1 = new add();
     System.out.println("addition of a and b is "+s1.c);
+     System.out.println("hello"):
 }
 
 }
